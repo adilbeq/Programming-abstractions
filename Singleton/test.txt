@@ -1,0 +1,7 @@
+Error: 11251. Priority: LOW!
+Connection: 122.10.0.7 has connected at: 11:36.
+Error: 11111. Priority: HIGH!
+Connection: 28.100.0.19 has connected at: 06:37.
+Change: File exam.txt has been changed at 07:44!
+Connection: 100.10.0.82 has connected at: 18:12.
+Change: Folder bin has been changed at 00:42!
